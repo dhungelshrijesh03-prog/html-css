@@ -5,7 +5,7 @@
 
 .main{
     width: 100%;
-    background: url(/flat.jpg.jpg);
+    background: url(/flat.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -98,4 +98,5 @@ ul li a:hover{
 }
 .image:hover .boy{
     left: 5px;
+
 }
